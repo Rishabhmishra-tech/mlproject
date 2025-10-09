@@ -10,7 +10,7 @@ import sys
 
 application=Flask(__name__)
 
-#app=application
+app=application
 
 ## Route for a home page
 
